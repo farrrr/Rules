@@ -1,6 +1,6 @@
-payload:  
+payload:
   # > Netflix
-  - PROCESS-NAME,com.netflix.mediaclient
+  # - PROCESS-NAME,com.netflix.mediaclient
   - DOMAIN-KEYWORD,netflix
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.com
