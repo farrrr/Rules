@@ -1,0 +1,22 @@
+payload:
+  # > Beplay
+  - DOMAIN-KEYWORD,beplay
+
+  # > Prior
+  - DOMAIN-SUFFIX,edu.cn
+
+  # > RRYS
+  - DOMAIN-SUFFIX,p4pfile.com
+  - DOMAIN-SUFFIX,zmzfile.com
+
+  # > h3yun
+  - DOMAIN-SUFFIX,h3yun.com
+
+  # > xfannix.com
+  - DOMAIN-SUFFIX,xfannix.com
+
+  # > renlijia.com
+  - DOMAIN-SUFFIX,renlijia.com
+
+  # > CN
+  - DOMAIN-SUFFIX,cn
