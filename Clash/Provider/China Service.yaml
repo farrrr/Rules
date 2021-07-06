@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyinvod.com
 
   # > Prior
   - DOMAIN-SUFFIX,edu.cn
