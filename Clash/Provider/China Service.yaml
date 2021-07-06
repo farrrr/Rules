@@ -9,7 +9,9 @@ payload:
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,douyincdn.com
   - DOMAIN-KEYWORD,douyinvod
+  - DOMAIN-KEYWORD,douyin
 
   # > Prior
   - DOMAIN-SUFFIX,edu.cn
